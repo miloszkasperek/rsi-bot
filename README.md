@@ -1,2 +1,2 @@
 # rsi-bot
-A simple bot for trading cryptocurrencies basing on the RSI indicator value.
+A simple bot trading cryptocurrencies basing on the RSI indicator value for a university course project.
